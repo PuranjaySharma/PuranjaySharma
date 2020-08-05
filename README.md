@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-#### I am Puranjay Sharma
-![bio gif](dev.gif)
+![bio gif](dev.gif) 
