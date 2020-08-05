@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Bio](dev.gif)
+![Bio](dev.gif)<br>
+#### This sums it up.
