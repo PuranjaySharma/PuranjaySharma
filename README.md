@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![bio gif](dev.gif)
-
+![GitHub Logo](dev.gif)
