@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ---
 #### I am Puranjay Sharma
+![bio gif](dev.gif)
