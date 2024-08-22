@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Bio](https://github.com/PuranjaySharma/PuranjaySharma/raw/master/dev.gif)<br>
+![Bio](https://github.com/PuranjaySharma/PuranjaySharma/raw/master/dev.gif)<br> 
 #### This sums it up.
